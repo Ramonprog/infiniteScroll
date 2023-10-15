@@ -4,7 +4,7 @@ Scroll infinito usando a biblioteca react-infinite-scroll-component e a api do j
 
 ## Demostração
 
-![gif]('./src/assets/gifscroll.gif')
+![gif](src/assets/gifscroll.gif)
 
 ## Referência
 
